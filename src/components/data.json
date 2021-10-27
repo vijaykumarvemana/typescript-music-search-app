@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "id": 29302921,
+            "readable": true,
+            "title": "Eminamente (Original Mix)",
+            "title_short": "Eminamente",
+            "title_version": "(Original Mix)",
+            "link": "https://www.deezer.com/track/29302921",
+            "duration": 654,
+            "rank": 25007,
+            "explicit_lyrics": false,
+            "explicit_content_lyrics": 2,
+            "explicit_content_cover": 2,
+            "preview": "https://cdns-preview-6.dzcdn.net/stream/c-6cc9b3a8a420c58ac759e455580b0071-0.mp3",
+            "md5_image": "3a7e5dcc07ba1b91ac9e6667860e9cd0",
+            "artist": {
+                "id": 2259091,
+                "name": "Christian Green, Ciprian Iordache, NSC",
+                "link": "https://www.deezer.com/artist/2259091",
+                "picture": "https://api.deezer.com/artist/2259091/image",
+                "picture_small": "https://e-cdns-images.dzcdn.net/images/artist//56x56-000000-80-0-0.jpg",
+                "picture_medium": "https://e-cdns-images.dzcdn.net/images/artist//250x250-000000-80-0-0.jpg",
+                "picture_big": "https://e-cdns-images.dzcdn.net/images/artist//500x500-000000-80-0-0.jpg",
+                "picture_xl": "https://e-cdns-images.dzcdn.net/images/artist//1000x1000-000000-80-0-0.jpg",
+                "tracklist": "https://striveschool-api.herokuapp.com/api/deezer/artist/2259091/top?limit=50",
+                "type": "artist"
+            },
+            "album": {
+                "id": 2778061,
+                "title": "Rare Sampler 001",
+                "cover": "https://api.deezer.com/album/2778061/image",
+                "cover_small": "https://e-cdns-images.dzcdn.net/images/cover/3a7e5dcc07ba1b91ac9e6667860e9cd0/56x56-000000-80-0-0.jpg",
+                "cover_medium": "https://e-cdns-images.dzcdn.net/images/cover/3a7e5dcc07ba1b91ac9e6667860e9cd0/250x250-000000-80-0-0.jpg",
+                "cover_big": "https://e-cdns-images.dzcdn.net/images/cover/3a7e5dcc07ba1b91ac9e6667860e9cd0/500x500-000000-80-0-0.jpg",
+                "cover_xl": "https://e-cdns-images.dzcdn.net/images/cover/3a7e5dcc07ba1b91ac9e6667860e9cd0/1000x1000-000000-80-0-0.jpg",
+                "md5_image": "3a7e5dcc07ba1b91ac9e6667860e9cd0",
+                "tracklist": "https://api.deezer.com/album/2778061/tracks",
+                "type": "album"
+            },
+            "type": "track"
+        }
+    ]
+}
