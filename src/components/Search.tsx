@@ -1,6 +1,7 @@
 import { FormEvent, useEffect, useState } from 'react'
 import {Form, Container, Col, Row, ListGroup} from 'react-bootstrap'
 import Songs from '../typings/Songs'
+import { Link } from 'react-router-dom'
 
 const Search = () =>{
 
@@ -45,7 +46,7 @@ const Search = () =>{
                     <Col xs={10} className='mx-auto mb-5'>
                     <ListGroup>
                         {
-                         data.map( song => (<ListGroup.Item className="my-4 p-4">{song.title}</ListGroup.Item>))    
+                         data.map( song => (<Link to={`/details/${song.id}`}><ListGroup.Item className="my-4 p-4">{song.title}</ListGroup.Item></Link>))    
                         }
                             
                     </ListGroup>
